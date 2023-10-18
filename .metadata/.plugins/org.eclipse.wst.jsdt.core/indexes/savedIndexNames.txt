@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1641109918.index
+2613883430.index
+3974719065.index
+2792799824.index
+4005417201.index
+861680844.index
+2304365052.index
