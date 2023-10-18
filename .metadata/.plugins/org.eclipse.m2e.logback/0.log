@@ -257,3 +257,75 @@
 2023-10-18 13:06:48,352 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
 2023-10-18 13:06:48,355 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-10-18 13:06:48,357 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
+2023-10-18 13:38:03,341 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:38:03,345 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
+2023-10-18 13:38:03,352 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:38:03,357 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
+2023-10-18 13:38:28,097 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:38:28,101 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
+2023-10-18 13:38:28,107 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:38:28,108 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
+2023-10-18 13:41:15,819 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:41:15,819 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
+2023-10-18 13:41:15,819 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:41:15,819 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
+2023-10-18 13:41:50,571 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:41:50,573 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
+2023-10-18 13:41:50,578 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:41:50,580 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
+2023-10-18 13:42:42,638 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:42:42,643 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
+2023-10-18 13:42:42,645 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:42:42,647 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
+2023-10-18 13:44:05,903 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:44:05,906 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
+2023-10-18 13:44:05,913 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:44:05,916 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
+2023-10-18 13:47:04,402 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:47:04,404 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
+2023-10-18 13:47:04,407 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:47:04,409 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
+2023-10-18 13:54:29,934 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:54:29,936 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
+2023-10-18 13:54:29,940 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:54:29,942 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
+2023-10-18 14:09:57,334 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:09:57,337 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
+2023-10-18 14:09:57,340 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:09:57,342 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
+2023-10-18 14:10:43,412 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:10:43,413 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
+2023-10-18 14:10:43,416 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:10:43,418 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
+2023-10-18 14:12:10,496 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:12:10,499 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
+2023-10-18 14:12:10,503 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:12:10,505 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
+2023-10-18 14:13:48,704 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:13:48,706 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
+2023-10-18 14:13:48,709 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:13:48,711 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
+2023-10-18 14:14:15,940 [Worker-39: Launching UsersTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:14:15,943 [Worker-39: Launching UsersTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
+2023-10-18 14:14:15,946 [Worker-39: Launching UsersTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:14:15,949 [Worker-39: Launching UsersTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
+2023-10-18 14:21:33,231 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:21:33,234 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
+2023-10-18 14:21:33,240 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:21:33,242 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
+2023-10-18 14:22:24,062 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bookstore:BookStoreWebsite:0.0.1-SNAPSHOT @ C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\pom.xml.
+2023-10-18 14:22:25,269 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:22:25,271 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
+2023-10-18 14:22:25,275 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:22:25,277 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
+2023-10-18 14:22:25,278 [Worker-49: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BookStoreWebsite
+2023-10-18 14:22:25,281 [Worker-49: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BookStoreWebsite
+2023-10-18 14:22:25,297 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:22:49,034 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:22:49,036 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
+2023-10-18 14:22:49,040 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:22:49,041 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
+2023-10-18 14:30:23,033 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:30:23,036 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\main\resources
+2023-10-18 14:30:23,040 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:30:23,041 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jggup\OneDrive\Documents\BookStoreWebsite\BookStoreWebsite\src\test\resources
